@@ -7,6 +7,6 @@ public class SkillDemoTest {
 
     @Test
     public void testName() {
-        assertEquals("Pranav", SkillDemo.getName());
+        assertEquals("Pranay", SkillDemo.getName());
     }
 }
